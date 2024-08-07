@@ -7,7 +7,7 @@ export const employees = [
         city: "New Orleans",
         county: "Orleans",
         color: "#8bc447",
-        photo: '../images/james-butt.jpeg'
+        photo: 'james-butt.jpeg'
     },
 
     {
@@ -18,7 +18,7 @@ export const employees = [
         city: "Brighton",
         county: "Livingston",
         color: "#8a3b93",
-        photo: '../images/default-image.jpg'   
+        photo: 'default-image.jpg'   
     },
 
     {
@@ -29,7 +29,7 @@ export const employees = [
         city: "Bridgeport",
         county: "Gloucester",
         color: "#1473bb",
-        photo: '../images/default-image.jpg'
+        photo: 'default-image.jpg'
     },
 
     {
@@ -40,7 +40,7 @@ export const employees = [
         city: "Anchorage",
         county: "Anchorage",
         color: "#c32482",
-        photo: '../images/default-image.jpg'   
+        photo: 'default-image.jpg'   
     },
 
     {
@@ -51,7 +51,7 @@ export const employees = [
         city: "Hamilton",
         county: "Butler",
         color: "#c32482",
-        photo: '../images/default-image.jpg'
+        photo: 'default-image.jpg'
     },
 
     {
@@ -62,7 +62,7 @@ export const employees = [
         city: "Ashland",
         county: "Ashland",
         color: "#8a3b93",
-        photo: '../images/default-image.jpg'
+        photo: 'default-image.jpg'
     },
 
     {
@@ -73,7 +73,7 @@ export const employees = [
         city: "Chicago",
         county: "Cook",
         color: "#8bc447",
-        photo: '../images/default-image.jpg'
+        photo: 'default-image.jpg'
     },
 
     {
@@ -84,7 +84,7 @@ export const employees = [
         city: "San Jose",
         county: "Santa Clara",
         color: "#dde553",
-        photo: '../images/default-image.jpg'
+        photo: 'default-image.jpg'
     },
 
     {
@@ -95,7 +95,7 @@ export const employees = [
         city: "Sioux Falls",
         county: "Minnehaha",
         color: "#c32482",
-        photo: '../images/sage-wieser.jpeg'
+        photo: 'sage-wieser.jpeg'
     },
 
     {
@@ -106,7 +106,7 @@ export const employees = [
         city: "Baltimore",
         county: "Baltimore",
         color: "#c32482",
-        photo: '../images/default-image.jpg'
+        photo: 'default-image.jpg'
     },
 
     {
@@ -117,7 +117,7 @@ export const employees = [
         city: "Kulpsville",
         county: "Montgomery",
         color: "#8a3b93",
-        photo: '../images/minna-amigon.jpeg'
+        photo: 'minna-amigon.jpeg'
     },
 
     {
@@ -128,7 +128,7 @@ export const employees = [
         city: "Middle Island",
         county: "Suffolk",
         color: "#1473bb",
-        photo: '../images/default-image.jpg'
+        photo: 'default-image.jpg'
     },
 
     {
@@ -139,7 +139,7 @@ export const employees = [
         city: "Los Angeles",
         county: "Los Angeles",
         color: "#1473bb",
-        photo: '../images/default-image.jpg'
+        photo: 'default-image.jpg'
     },
 
     {
@@ -150,7 +150,7 @@ export const employees = [
         city: "Chargin Falls",
         county: "Geauga",
         color: "#8bc447",
-        photo: '../images/default-image.jpg'  
+        photo: 'default-image.jpg'  
     },
 
     {
@@ -161,6 +161,6 @@ export const employees = [
         city: "Laredo",
         county: "Webb",
         color: "#8bc447",
-        photo: '../images/default-image.jpg'
+        photo: 'default-image.jpg'
     }
 ];
