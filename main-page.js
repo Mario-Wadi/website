@@ -1,4 +1,4 @@
-import { employees } from "employees.js";
+import { employees } from "/employees.js";
 //Making loading screen disappear after the webpage is loaded
 window.addEventListener("load", () => {
     const loader = document.querySelector(".loader");
